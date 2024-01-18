@@ -4,6 +4,8 @@
 
 **Skills take away From This Project :** Data Wrangling, EDA, Model Building, Model Deployment.
 
+**Linkedin URL :** https://www.linkedin.com/in/saravanan-b-241468269/details/projects/
+
 **Domain :** Real Estate.
 
 **Data Source :**  https://beta.data.gov.sg/collections/189/view
